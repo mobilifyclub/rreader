@@ -1,0 +1,20 @@
+@charset "utf-8";
+/**/
+div.book {
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify
+    }
+div.toc {
+    margin-left: 3%;
+    text-align: left
+    }
+p {
+    text-indent: 2em;
+    margin-top: 0;
+    margin-bottom: 0
+    }
+table.bold {
+    font-weight: bold
+    }
+/**/

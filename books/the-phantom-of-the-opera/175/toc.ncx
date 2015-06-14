@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="http://www.gutenberg.org/ebooks/175" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="EpubMaker 0.3.20a6 by Marcello Perathoner &lt;webmaster@gutenberg.org&gt;" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Phantom of the Opera</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>The Phantom of the Opera</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-0.htm.html#pgepubid00000"/>
+      <navPoint id="np-2" playOrder="2">
+        <navLabel>
+          <text>by</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-0.htm.html#pgepubid00001"/>
+      </navPoint>
+      <navPoint id="np-3" playOrder="3">
+        <navLabel>
+          <text>Gaston Leroux</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-0.htm.html#pgepubid00002"/>
+        <navPoint id="np-4" playOrder="4">
+          <navLabel>
+            <text>Author of "The Mystery of the Yellow Room" and "The Perfume of the Lady in Black"</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-0.htm.html#pgepubid00003"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-5" playOrder="5">
+        <navLabel>
+          <text>Contents</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-0.htm.html#pgepubid00004"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-6" playOrder="6">
+      <navLabel>
+        <text>The Phantom of the Opera</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-0.htm.html#pgepubid00005"/>
+      <navPoint id="np-7" playOrder="7">
+        <navLabel>
+          <text>Prologue</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-0.htm.html#pgepubid00006"/>
+        <navPoint id="np-8" playOrder="8">
+          <navLabel>
+            <text>Chapter I Is it the Ghost?</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-0.htm.html#pgepubid00007"/>
+        </navPoint>
+        <navPoint id="np-9" playOrder="9">
+          <navLabel>
+            <text>Chapter II The New Margarita</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-0.htm.html#pgepubid00008"/>
+        </navPoint>
+        <navPoint id="np-10" playOrder="10">
+          <navLabel>
+            <text>Chapter III The Mysterious Reason</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-0.htm.html#pgepubid00009"/>
+        </navPoint>
+        <navPoint id="np-11" playOrder="11">
+          <navLabel>
+            <text>Chapter IV Box Five</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-1.htm.html#pgepubid00010"/>
+        </navPoint>
+        <navPoint id="np-12" playOrder="12">
+          <navLabel>
+            <text>Chapter V The Enchanted Violin</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-1.htm.html#pgepubid00011"/>
+        </navPoint>
+        <navPoint id="np-13" playOrder="13">
+          <navLabel>
+            <text>Chapter VI A Visit to Box Five</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-1.htm.html#pgepubid00012"/>
+        </navPoint>
+        <navPoint id="np-14" playOrder="14">
+          <navLabel>
+            <text>Chapter VII Faust and What Followed</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-1.htm.html#pgepubid00013"/>
+        </navPoint>
+        <navPoint id="np-15" playOrder="15">
+          <navLabel>
+            <text>Chapter VIII The Mysterious Brougham</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-2.htm.html#pgepubid00014"/>
+        </navPoint>
+        <navPoint id="np-16" playOrder="16">
+          <navLabel>
+            <text>Chapter IX At the Masked Ball</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-2.htm.html#pgepubid00015"/>
+        </navPoint>
+        <navPoint id="np-17" playOrder="17">
+          <navLabel>
+            <text>Chapter X Forget the Name of the Man's Voice</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-2.htm.html#pgepubid00016"/>
+        </navPoint>
+        <navPoint id="np-18" playOrder="18">
+          <navLabel>
+            <text>Chapter XI Above the Trap-Doors</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-2.htm.html#pgepubid00017"/>
+        </navPoint>
+        <navPoint id="np-19" playOrder="19">
+          <navLabel>
+            <text>Chapter XII Apollo's Lyre</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-3.htm.html#pgepubid00018"/>
+        </navPoint>
+        <navPoint id="np-20" playOrder="20">
+          <navLabel>
+            <text>Chapter XIII A Master-Stroke of the Trap-Door Lover</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-3.htm.html#pgepubid00019"/>
+        </navPoint>
+        <navPoint id="np-21" playOrder="21">
+          <navLabel>
+            <text>Chapter XIV The Singular Attitude of a Safety-Pin</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-3.htm.html#pgepubid00020"/>
+        </navPoint>
+        <navPoint id="np-22" playOrder="22">
+          <navLabel>
+            <text>Chapter XV Christine! Christine!</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-4.htm.html#pgepubid00021"/>
+        </navPoint>
+        <navPoint id="np-23" playOrder="23">
+          <navLabel>
+            <text>Chapter XVI Mme. Giry's Astounding Revelations as to Her Personal Relations with the Opera Ghost</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-4.htm.html#pgepubid00022"/>
+        </navPoint>
+        <navPoint id="np-24" playOrder="24">
+          <navLabel>
+            <text>Chapter XVII The Safety-Pin Again</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-4.htm.html#pgepubid00023"/>
+        </navPoint>
+        <navPoint id="np-25" playOrder="25">
+          <navLabel>
+            <text>Chapter XVIII The Commissary, The Viscount and the Persian</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-4.htm.html#pgepubid00024"/>
+        </navPoint>
+        <navPoint id="np-26" playOrder="26">
+          <navLabel>
+            <text>Chapter XIX The Viscount and the Persian</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-4.htm.html#pgepubid00025"/>
+        </navPoint>
+        <navPoint id="np-27" playOrder="27">
+          <navLabel>
+            <text>Chapter XX In the Cellars of the Opera</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-5.htm.html#pgepubid00026"/>
+        </navPoint>
+        <navPoint id="np-28" playOrder="28">
+          <navLabel>
+            <text>Chapter XXI Interesting and Instructive Vicissitudes of a Persian in the Cellars of the Opera</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-5.htm.html#pgepubid00027"/>
+        </navPoint>
+        <navPoint id="np-29" playOrder="29">
+          <navLabel>
+            <text>THE PERSIAN'S NARRATIVE</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-5.htm.html#pgepubid00028"/>
+        </navPoint>
+        <navPoint id="np-30" playOrder="30">
+          <navLabel>
+            <text>Chapter XXII In the Torture Chamber</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-5.htm.html#pgepubid00029"/>
+        </navPoint>
+        <navPoint id="np-31" playOrder="31">
+          <navLabel>
+            <text>THE PERSIAN'S NARRATIVE CONTINUED</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-5.htm.html#pgepubid00030"/>
+        </navPoint>
+        <navPoint id="np-32" playOrder="32">
+          <navLabel>
+            <text>Chapter XXIII The Tortures Begin</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-6.htm.html#pgepubid00031"/>
+        </navPoint>
+        <navPoint id="np-33" playOrder="33">
+          <navLabel>
+            <text>THE PERSIAN'S NARRATIVE CONTINUED.</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-6.htm.html#pgepubid00032"/>
+        </navPoint>
+        <navPoint id="np-34" playOrder="34">
+          <navLabel>
+            <text>Chapter XXIV "Barrels! ... Barrels! ... Any Barrels to Sell?"</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-6.htm.html#pgepubid00033"/>
+        </navPoint>
+        <navPoint id="np-35" playOrder="35">
+          <navLabel>
+            <text>THE PERSIAN'S NARRATIVE CONTINUED</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-6.htm.html#pgepubid00034"/>
+        </navPoint>
+        <navPoint id="np-36" playOrder="36">
+          <navLabel>
+            <text>Chapter XXV The Scorpion or the Grasshopper: Which?</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-6.htm.html#pgepubid00035"/>
+        </navPoint>
+        <navPoint id="np-37" playOrder="37">
+          <navLabel>
+            <text>THE PERSIAN'S NARRATIVE CONCLUDED</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-6.htm.html#pgepubid00036"/>
+        </navPoint>
+        <navPoint id="np-38" playOrder="38">
+          <navLabel>
+            <text>Chapter XXVI The End of the Ghost's Love Story</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-6.htm.html#pgepubid00037"/>
+        </navPoint>
+        <navPoint id="np-39" playOrder="39">
+          <navLabel>
+            <text>Epilogue.</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-6.htm.html#pgepubid00038"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-40" playOrder="40">
+        <navLabel>
+          <text>The Paris Opera House</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-7.htm.html#pgepubid00039"/>
+        <navPoint id="np-41" playOrder="41">
+          <navLabel>
+            <text>THE SCENE OF GASTON LEROUX'S NOVEL, "THE PHANTOM OF THE OPERA"</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@175@175-h@175-h-7.htm.html#pgepubid00040"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
